@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/loLOM9vO0g8TwsVkFu/giphy.gif?cid=790b7611o2cw7xuov292c2b52kpjrvy2m32c04yo0xkm9obj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="145" src="https://media.giphy.com/media/loLOM9vO0g8TwsVkFu/giphy.gif?cid=790b7611o2cw7xuov292c2b52kpjrvy2m32c04yo0xkm9obj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -41,9 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fsversutti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fsversutti&radius=16&theme=gruvbox&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/fsversutti/fsversutti/output/snake.svg" alt="Snake animation" />
 
 ###
