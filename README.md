@@ -4,11 +4,10 @@
 
 <img align="left" height="150" src="https://media.giphy.com/media/loLOM9vO0g8TwsVkFu/giphy.gif?cid=790b7611o2cw7xuov292c2b52kpjrvy2m32c04yo0xkm9obj&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
-###
 
 <p align="left">- Full Stack Python Developer student at EBAC<br>- Future content creator</p>
 
-###
+
 
 <h2 align="left">What I am currently learning</h2>
 
