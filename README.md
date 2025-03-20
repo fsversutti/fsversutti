@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- Systems Analysis and Development student at IFPR<br>- Future content creator<br>- Full Stack Python Developer student at EBAC</p>
+<p align="left">- Systems Analysis and Development student at IFPR<br>- Full Stack Python Developer student at EBAC<br>- Future content creator</p>
 
 ###
 
